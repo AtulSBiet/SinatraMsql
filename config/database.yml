@@ -1,24 +1,5 @@
-development:
-  adapter: mysql2
-  encoding: utf8
-  reconnect: false
-  database: sinatra_with_mysql_dev
-  pool: 5
-  username: root
-  password:
-  
-test:
-  adapter: mysql2
-  encoding: utf8
-  reconnect: false
-  database: sinatra_template_test
-  pool: 5
-  username: root
-  password:
-  
-production:
   adapter: mysql2  
-  host: 172.16.2.167
+  host: 54.213.93.154
   port: 9878                          # VM Port 
   database: t             # Database Name
   username: adlplrrpr4u41sm5                 # User Name
