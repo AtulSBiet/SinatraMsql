@@ -1,6 +1,6 @@
-  adapter: mysql2  
-  host: 54.213.93.154
-  port: 9878                          # VM Port 
-  database: t             # Database Name
-  username: adlplrrpr4u41sm5                 # User Name
-  password: 'm58skb632bqk6xzxlf0xaurnrpznt93r'                # Password 
+adapter: mysql2  
+host: 54.213.93.154
+port: 9878                          # VM Port 
+database: t             # Database Name
+username: adlplrrpr4u41sm5                 # User Name
+password: 'm58skb632bqk6xzxlf0xaurnrpznt93r'                # Password 
